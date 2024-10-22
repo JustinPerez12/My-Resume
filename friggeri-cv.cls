@@ -106,7 +106,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
     \node [rectangle, fill=fillheader, anchor=north, minimum width=\paperwidth, minimum height=3cm] (box) at (current page.north){};
     \node [anchor=center] (name) at (box) {%
       \fontsize{30pt}{62pt}\color{header}%
-      {\thinfont #1}{\bodyfont  #2}
+      {\thinfont #1}{\bodyfont  #2} 
     };
     \node [anchor=north] at (name.south) {%
       \fontsize{14pt}{24pt}\color{pblue}%
@@ -144,12 +144,12 @@ BoldItalicFont=texgyreheros-bolditalic.otf
   {%
     \color{%
       \ifcase\value{colorCounter}%
-        pblue\or%
-        pblue\or%
-        pblue\or%
-        pblue\or%
-        pblue\else%
-        pblue\fi%
+        gray\or%
+        gray\or%
+        gray\or%
+        gray\or%
+        gray\else%
+        gray\fi%
     } #1#2#3%
   }%
   \stepcounter{colorCounter}%
@@ -185,10 +185,10 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 }
 \renewcommand{\bfseries}{\headingfont\color{headercolor}}
 \newcommand{\entry}[4]{%
-  #1&\parbox[t]{11.8cm}{%
+  #1 & \parbox[t]{11.8cm}{%
     \textbf{#2}%
     \hfill%
-    {\footnotesize\addfontfeature{Color=pblue} #3}\\%
+    {\footnotesize #3}\\%
     #4\vspace{\parsep}%
   }\\}
 
@@ -205,7 +205,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{pblue} ##1}
   }
-  \begin{textblock}{3.6}(2.0, 0.55)
+  \begin{textblock}{3.6}(2.0, 3.00)
   \begin{flushright}
   \obeycr
 }{%
