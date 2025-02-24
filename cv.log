@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.12)  24 FEB 2025 13:07
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.12)  24 FEB 2025 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1117,23 +1117,28 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 26.
 
-Overfull \hbox (1.72997pt too wide) in paragraph at lines 34--34
+Overfull \hbox (1.72997pt too wide) in paragraph at lines 32--32
  []\TU/texgyreheros-regular.otf(1)/m/n/10 justinprz12@gmail.com
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 64--64
-\TU/texgyreheros-regular.otf(1)/m/n/10 Built reporting ETL jobs leveraging Clou
-dwatch Events, ECS Fargate,
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+
  []
 
 
-Overfull \hbox (7.73874pt too wide) in alignment at lines 50--82
+Underfull \hbox (badness 1178) in paragraph at lines 73--73
+\TU/texgyreheros-regular.otf(1)/m/n/10 Designed and developed a mobile applicat
+ion using React Native and
+ []
+
+
+Overfull \hbox (7.73874pt too wide) in alignment at lines 48--82
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--83
+Underfull \hbox (badness 10000) in paragraph at lines 48--83
 
  []
 
@@ -1144,7 +1149,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--92
 
 [1
 
-] (cv.aux)
+]
+Underfull \hbox (badness 10000) in paragraph at lines 94--101
+
+ []
+
+[2] (cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1158,10 +1168,10 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of TeX's memory you used:
  33314 strings out of 409617
  658182 string characters out of 5774013
- 1942191 words of memory out of 5000000
+ 1944191 words of memory out of 5000000
  54998 multiletter control sequences out of 15000+600000
  559457 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  117i,9n,121p,677b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv.pdf (1 page).
+Output written on cv.pdf (2 pages).
