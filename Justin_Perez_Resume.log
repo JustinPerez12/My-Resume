@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.12)  24 FEB 2025 14:08
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.12)  24 FEB 2025 16:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./cv.tex
-(cv.tex
+**./Justin_Perez_Resume.tex
+(Justin_Perez_Resume.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (friggeri-cv.cls
@@ -987,8 +987,8 @@ Package hyperref Info: Option `colorlinks' set `false' on input line 14.
 \@quotelevel=\count453
 \@quotereset=\count454
 
-(cv.aux)
-\openout1 = `cv.aux'.
+(Justin_Perez_Resume.aux)
+\openout1 = `Justin_Perez_Resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
@@ -1057,12 +1057,12 @@ Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `cv.bcf'.
+\openout4 = `Justin_Perez_Resume.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'cv.bbl' not found.
+Package biblatex Info: ... file 'Justin_Perez_Resume.bbl' not found.
 
-No file cv.bbl.
+No file Justin_Perez_Resume.bbl.
 Package biblatex Info: Reference section=0 on input line 19.
 Package biblatex Info: Reference segment=0 on input line 19.
 *geometry* driver: auto-detecting
@@ -1100,73 +1100,67 @@ Package biblatex Info: Reference segment=0 on input line 19.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 19.
-(cv.out) (cv.out)
+(Justin_Perez_Resume.out) (Justin_Perez_Resume.out)
 \@outlinefile=\write5
-\openout5 = `cv.out'.
+\openout5 = `Justin_Perez_Resume.out'.
 
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 26.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 26.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 26.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 26.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 26.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 26.
 
-Overfull \hbox (1.72997pt too wide) in paragraph at lines 32--32
+Overfull \hbox (1.72997pt too wide) in paragraph at lines 27--27
  []\TU/texgyreheros-regular.otf(1)/m/n/10 justinprz12@gmail.com
  []
 
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00107pt on input line 46.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00075pt on input line 46.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 46.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 46.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 46.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 46.
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
-
- []
-
-
-Underfull \hbox (badness 1178) in paragraph at lines 79--79
-\TU/texgyreheros-regular.otf(1)/m/n/10 Designed and developed a mobile applicat
-ion using React Native and
- []
-
-
-Overfull \hbox (7.73874pt too wide) in alignment at lines 54--88
+Overfull \hbox (7.73874pt too wide) in alignment at lines 46--80
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--89
+Underfull \hbox (badness 10000) in paragraph at lines 46--81
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 91--98
+Underfull \hbox (badness 10000) in paragraph at lines 83--90
 
  []
 
-[2] (cv.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--103
+
+ []
+
+[2] (Justin_Perez_Resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-Package rerunfilecheck Info: File `cv.out' has not changed.
+Package rerunfilecheck Info: File `Justin_Perez_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package logreq Info: Writing requests to 'cv.run.xml'.
-\openout1 = `cv.run.xml'.
+Package logreq Info: Writing requests to 'Justin_Perez_Resume.run.xml'.
+\openout1 = `Justin_Perez_Resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  33314 strings out of 409617
- 658182 string characters out of 5774013
- 1938191 words of memory out of 5000000
+ 658590 string characters out of 5774013
+ 1946191 words of memory out of 5000000
  54998 multiletter control sequences out of 15000+600000
  559457 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 117i,9n,121p,677b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,9n,121p,809b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv.pdf (2 pages).
+Output written on Justin_Perez_Resume.pdf (2 pages).

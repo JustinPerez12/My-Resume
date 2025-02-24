@@ -105,7 +105,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
   \begin{tikzpicture}[remember picture,overlay]
     \node [rectangle, fill=fillheader, anchor=north, minimum width=\paperwidth, minimum height=3cm] (box) at (current page.north){};
     \node [anchor=center] (name) at (box) {%
-      \fontsize{30pt}{62pt}\color{header}%
+      \fontsize{20pt}{20pt}\color{header}%
       {\thinfont #1}{\bodyfont  #2}
     };
     \node [anchor=north] at (name.south) {%
@@ -114,7 +114,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
     };
   \end{tikzpicture}
   \vspace{0.5cm}
-  \vspace{-2\parskip}
+  \vspace{-4\parskip}
 }
 
 
